@@ -1,5 +1,5 @@
 {
-  "name": "integration-test-a-z",
+! "name": "integration-test-a-z",
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -69,3 +69,4 @@
     "umzug": "^3.2.1"
   }
 }
+ 
