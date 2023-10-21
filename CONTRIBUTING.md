@@ -2,9 +2,9 @@ So you want to join our family, people who appreciate and love testing? 💜
 You might get addiced and dramatically push your testing skills, you've been warned. Still interesting? Keep reading
 
 <a name="pull-requests"></a>
-## Pull requests
+ # Pull requests
 
-**Please ask first** before embarking on any significant pull request (e.g.
+ *Please ask first** before embarking on any significant pull request (e.g.
 implementing features, refactoring code, porting to a different language),
 otherwise you risk spending a lot of time working on something that the
 project's developers might not want to merge into the project.
@@ -66,3 +66,4 @@ included in the project:
 
 **IMPORTANT**: By submitting a patch, you agree to allow the project
 owners to license your work under the terms of the [MIT License](LICENSE.txt).
+ 
